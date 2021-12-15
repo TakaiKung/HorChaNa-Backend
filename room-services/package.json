@@ -1,0 +1,14 @@
+{
+  "name": "roomservices",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "fastest-validator": "^1.12.0",
+    "mongoose": "^6.0.13",
+    "nodemon": "^2.0.15",
+    "password-generator": "^2.3.2"
+  }
+}
